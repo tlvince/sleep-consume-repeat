@@ -1,0 +1,23 @@
+{
+  "name": "sleep-consume-repeat",
+  "version": "0.1.0",
+  "description": "Sleep. Consume. Repeat.",
+  "main": "server.js",
+  "dependencies": {
+    "harp": "~0.9.3"
+  },
+  "keywords": [
+    "sleep",
+    "consume",
+    "repeat"
+  ],
+  "author": "Tom Vincent",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlvince/sleep-consume-repeat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tlvince/sleep-consume-repeat/issues"
+  }
+}
